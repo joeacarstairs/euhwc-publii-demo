@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>EUHWC Publii Demo</title>
+    <link href="https://euhwc-publii-demo.joeac.net/feed.xml" rel="self" />
+    <link href="https://euhwc-publii-demo.joeac.net" />
+    <updated>2024-08-05T14:13:00+01:00</updated>
+    <author>
+        <name>Joe Carstairs</name>
+    </author>
+    <id>https://euhwc-publii-demo.joeac.net</id>
+
+    <entry>
+        <title>Blog post 3</title>
+        <author>
+            <name>Joe Carstairs</name>
+        </author>
+        <link href="https://euhwc-publii-demo.joeac.net/blog-post-3/"/>
+        <id>https://euhwc-publii-demo.joeac.net/blog-post-3/</id>
+        <media:content url="https://euhwc-publii-demo.joeac.net/media/posts/5/2024-04-20_150.jpg" medium="image" />
+            <category term="Blog"/>
+
+        <updated>2024-08-05T14:13:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://euhwc-publii-demo.joeac.net/media/posts/5/2024-04-20_150.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://euhwc-publii-demo.joeac.net/media/posts/5/2024-04-20_150.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blog post 2</title>
+        <author>
+            <name>Joe Carstairs</name>
+        </author>
+        <link href="https://euhwc-publii-demo.joeac.net/blog-post-2/"/>
+        <id>https://euhwc-publii-demo.joeac.net/blog-post-2/</id>
+        <media:content url="https://euhwc-publii-demo.joeac.net/media/posts/4/2024-04-20_180.HEIC" medium="image" />
+            <category term="Blog"/>
+
+        <updated>2024-08-04T14:13:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://euhwc-publii-demo.joeac.net/media/posts/4/2024-04-20_180.HEIC" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://euhwc-publii-demo.joeac.net/media/posts/4/2024-04-20_180.HEIC" class="type:primaryImage" alt="" /></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Blog post 1</title>
+        <author>
+            <name>Joe Carstairs</name>
+        </author>
+        <link href="https://euhwc-publii-demo.joeac.net/blog-post-1/"/>
+        <id>https://euhwc-publii-demo.joeac.net/blog-post-1/</id>
+        <media:content url="https://euhwc-publii-demo.joeac.net/media/posts/3/2024-04-20_185.jpg" medium="image" />
+            <category term="Blog"/>
+
+        <updated>2024-08-03T14:13:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://euhwc-publii-demo.joeac.net/media/posts/3/2024-04-20_185.jpg" alt="" />
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://euhwc-publii-demo.joeac.net/media/posts/3/2024-04-20_185.jpg" class="type:primaryImage" alt="" /></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

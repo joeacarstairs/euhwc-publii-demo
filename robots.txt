@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://euhwc-publii-demo.joeac.net/sitemap.xml
