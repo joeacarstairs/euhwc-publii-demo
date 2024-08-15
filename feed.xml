@@ -3,12 +3,36 @@
     <title>EUHWC Publii Demo</title>
     <link href="https://joeacarstairs.github.io/euhwc-publii-demo/feed.xml" rel="self" />
     <link href="https://joeacarstairs.github.io/euhwc-publii-demo" />
-    <updated>2024-08-05T14:13:00+01:00</updated>
+    <updated>2024-08-15T17:59:13+01:00</updated>
     <author>
         <name>Joe Carstairs</name>
     </author>
     <id>https://joeacarstairs.github.io/euhwc-publii-demo</id>
 
+    <entry>
+        <title>Silas&#x27; Blog Post</title>
+        <author>
+            <name>Joe Carstairs</name>
+        </author>
+        <link href="https://joeacarstairs.github.io/euhwc-publii-demo/silas-blog-post/"/>
+        <id>https://joeacarstairs.github.io/euhwc-publii-demo/silas-blog-post/</id>
+            <category term="Blog"/>
+
+        <updated>2024-08-15T17:58:26+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I went on a walk yesterday. I walked five miles. It was with all my friends, Isla, Chris and Connel. 🤡
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I went on a walk yesterday.</p>
+<p>I walked five miles.</p>
+<p>It was with all my friends, Isla, Chris and Connel.</p>
+<p>🤡</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Blog post 3</title>
         <author>
@@ -29,30 +53,6 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://joeacarstairs.github.io/euhwc-publii-demo/media/posts/5/2024-04-20_150.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Blog post 2</title>
-        <author>
-            <name>Joe Carstairs</name>
-        </author>
-        <link href="https://joeacarstairs.github.io/euhwc-publii-demo/blog-post-2/"/>
-        <id>https://joeacarstairs.github.io/euhwc-publii-demo/blog-post-2/</id>
-        <media:content url="https://joeacarstairs.github.io/euhwc-publii-demo/media/posts/4/2024-04-20_180.HEIC" medium="image" />
-            <category term="Blog"/>
-
-        <updated>2024-08-04T14:13:00+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://joeacarstairs.github.io/euhwc-publii-demo/media/posts/4/2024-04-20_180.HEIC" alt="" />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://joeacarstairs.github.io/euhwc-publii-demo/media/posts/4/2024-04-20_180.HEIC" class="type:primaryImage" alt="" /></p>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             ]]>
         </content>
